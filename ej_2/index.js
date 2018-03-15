@@ -3,7 +3,6 @@ const faker = require('faker')
 
 const total = 1000    // wtf john??
 
-const telephone = telephoneGenerator()
 
 
 for (var i = 0; i < total; i++) {
